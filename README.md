@@ -40,5 +40,17 @@ This allows the IDS to **adapt dynamically**, avoid overfitting to fixed data di
 
 ---
 
-## 🏗️ Repository Structure
+🧑‍💻 Citation
+
+If you use this code, please cite the original DQ-IDS paper and this repository:
+
+@article{Hossain2025DQIDS,
+  author    = {Md. Alamgir Hossain},
+  title     = {Deep Q-learning intrusion detection system (DQ-IDS): A novel reinforcement learning approach for adaptive and self-learning cybersecurity},
+  journal   = {ICT Express},
+  year      = {2025},
+  issn      = {2405-9595},
+  doi       = {10.1016/j.icte.2025.05.007},
+  url       = {https://www.sciencedirect.com/science/article/pii/S2405959525000694}
+}
 
